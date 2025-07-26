@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Achuth — a 🎨 UI/UX Designer & 📊 Data Enthusiast from India</h2>
+<h2 align="left">Hi 👋! I'm Achuth — a 🎨 Product Designer & 📊 Data Enthusiast from India</h2>
 
 ###
 
