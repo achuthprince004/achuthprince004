@@ -1,7 +1,5 @@
 <h2 align="left">Hi 👋! I'm Achuth — a 🎨 UI/UX Designer & 📊 Data Enthusiast from India</h2>
 
-##
-
 ## 💫 About Me  
 🎓 I'm a CSE student at SRM Institute of Science and Technology, Chennai.  
 🎨 A passionate UI/UX Designer and 📊 Data Enthusiast who believes design can drive impact and decisions.  
