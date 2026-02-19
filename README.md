@@ -9,7 +9,7 @@
  <h3>😌 The Part Where I Explain Myself</h3>  
 🎓 CSE student at SRM IST, Chennai — professionally overthinking problems so users don’t have to. 
 
-🎨 UI/UX Designer & Data Analyst making design feel obvious after doing the hard thinking—powered by data I trust… but never blindly.    
+🎨 UI/UX Designer & Data Analyst making design feel obvious, powered by data I trust (never blindly).    
 🤖 Exploring AI-powered products, data storytelling, and smooth user journeys, because tech shouldn’t act smarter than the people using it.    
 🏁 Hackathon finalist (SIH’24) — built real solutions under pressure, survived on caffeine, teamwork, and questionable sleep schedules.    
 🤝 Big on collaboration—ideas get better when smart people argue nicely.        
