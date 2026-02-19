@@ -1,15 +1,18 @@
-<h2 align="left">Hi 👋! I'm Achuth — a 🎨 Product Designer & 📊 Data Enthusiast from India</h2>
+<h2 align="left">Hi 👋! I'm Achuth</h2>
+<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" />
 
-## 💫 About Me  
-🎓 I'm a CSE student at SRM Institute of Science and Technology, Chennai.  
-🎨 A passionate UI/UX Designer and 📊 Data Enthusiast who believes design can drive impact and decisions.  
-🚀 Actively exploring AI-powered experiences, data storytelling, and seamless digital product journeys.  
-🏁 Hackathon finalist and a constant learner — always curious, always building, always evolving.  
-🤝 I love connecting with like-minded minds, collaborating on creative ideas, and turning concepts into real-world impact.
+ <h3>😌 The Part Where I Explain Myself</h3>  
+🎓 CSE student at SRM IST, Chennai — professionally overthinking problems so users don’t have to. 
+
+🎨 UI/UX Designer & Data Analyst making design feel obvious after doing the hard thinking—powered by data I trust… but never blindly.    
+🤖 Exploring AI-powered products, data storytelling, and smooth user journeys, because tech shouldn’t act smarter than the people using it.    
+🏁 Hackathon finalist (SIH’24) — built real solutions under pressure, survived on caffeine, teamwork, and questionable sleep schedules.    
+🤝 Big on collaboration—ideas get better when smart people argue nicely.        
+📸 Outside work, you’ll find me behind a camera, playing badminton, or into finance, pretending this is “relaxing.”  
 
 ##
 
-## 🛠️ Tech Stack  
+<h3>🛠️ Tech Stack<h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
   <img width="12" />
@@ -34,7 +37,7 @@
 
 ##
 
-## 🔗 Connect with Me  
+ <h3>🔗 Connect with Me<h3>  
 <div align="left">
   <a href="https://www.instagram.com/achuth_prince004/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
@@ -48,23 +51,23 @@
   <a href="https://www.behance.net/achuthakil" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo" />
   </a>
+  <a href="https://madebyachuth.framer.website/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=E53935&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio website" />
+</a>
 </div>
 
 ##
 
-## 📊 GitHub Stats & Activity  
-<div align="center">
-  <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" />
-  <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=achuthprince004&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=achuthprince004&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-  </div>
-</div>
-
-##
- 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/achuthprince004/achuthprince004/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/achuthprince004/achuthprince004/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/achuthprince004/achuthprince004/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<div align="left">
+</div>
+
+###
+>
