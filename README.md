@@ -1,5 +1,10 @@
 <h2 align="left">Hi 👋! I'm Achuth</h2>
-<img align="right" height="300" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" />
+<img 
+  align="right" 
+  height="300" 
+  style="margin-left: 45px;" 
+  src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif"
+/>
 
  <h3>😌 The Part Where I Explain Myself</h3>  
 🎓 CSE student at SRM IST, Chennai — professionally overthinking problems so users don’t have to. 
